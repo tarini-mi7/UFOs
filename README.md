@@ -10,9 +10,6 @@ In order to perform their analysis, users will be able to filter the UFO sightin
 
 ## Results
 
-### Link to UFO Sightings webpage
-The deployed webpage is accessible at![alt text](https://github.com/tarini-mi7/UFOs/blob/main/Images/full%20Image%20of%20UFO%20site.png)
-
 ### Search Criteria Procedure
 
 #### Index page
@@ -43,6 +40,7 @@ The user enters the desired country, the change is detected and the table is upd
 The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
 <p align="center">
     <img src="https://github.com/tarini-mi7/UFOs/blob/main/Images/state%20filter.png" class="img-responsive" alt="Responsive image"> 
+    <img src="https://github.com/tarini-mi7/UFOs/blob/main/Images/shape%20filter.png" class="img-responsive" alt="Responsive image">
 </p>
 All filter parameters can be entered simultaneously.
 <br>
