@@ -21,7 +21,7 @@ This is the initial page. The user can re-initialize the page by clicking on the
 #### Filtering by event date
 The user enters the desired date, the change is detected and the table is updated accordingly.
 <p align="center">
-    <img src="" class="img-responsive" alt="Responsive image"> 
+    <img src="https://github.com/tarini-mi7/UFOs/blob/main/Images/date%20filter.png" class="img-responsive" alt="Responsive image"> 
 </p>
 
 #### Filtering by city
